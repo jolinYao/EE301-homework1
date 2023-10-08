@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/setting/setting",
+    "pages/test/test",
+    "pages/logs/logs",
+    "component/sideMenu/sideMenu",
+    "component/model/model",
+    "component/maskModel/maskModel",
+    "component/inputModel/inputModel",
+    "component/rippleCard/rippleCard",
+    "pages/program/program"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "计算器",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#c0c0c0"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

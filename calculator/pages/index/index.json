@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "sideMenu":"../../component/sideMenu/sideMenu",
+    "inputModel":"../../component/inputModel/inputModel",
+    "model":"../../component/model/model"
+  }
+}
